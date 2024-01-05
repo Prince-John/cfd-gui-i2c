@@ -1,0 +1,11 @@
+{ "configuration_name": "config.json",
+  "date_modified": "07-28-23",
+  "configuration" : [ {
+    "chip_number":"0",
+    "nowlin_mode":"short"
+    },
+    {
+    "chip_number": "0"
+    }
+  ]
+}
